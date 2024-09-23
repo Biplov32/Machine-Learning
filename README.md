@@ -1,2 +1,2 @@
 # Machine-Learning
-Basic Machine learning Algorithm and Projects
+Implementation basic ML algorithms from scratch
